@@ -1,6 +1,6 @@
 # GitHub Repo Discovery
 
-A React + Tailwind app for discovering GitHub repositories in a few different ways — browse a user's repos, search by language or topic, find a good first issue to contribute to, and compare repos side by side. Built on top of the roadmap.sh ["Random GitHub Repo"](https://roadmap.sh/projects/github-random-repo) project idea.
+A React + Tailwind app for discovering GitHub repositories in a few different ways — browse a user's repos, search by language or topic, find a good first issue to contribute to, and compare repos side by side.
 
 It's a pure client-side app: every request goes straight from your browser to the public [GitHub REST API](https://docs.github.com/en/rest) — there's no backend server.
 
